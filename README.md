@@ -167,3 +167,11 @@ Update personal information in component files:
 This project is open source and available under the [MIT License](LICENSE).
 
 ## 🙏 Acknowledgments
+
+- Built with [Lovable](https://lovable.dev)
+- UI Components by [shadcn/ui](https://ui.shadcn.com)
+- Icons by [Lucide](https://lucide.dev)
+
+---
+
+⭐ Star this repository if you found it helpful!
